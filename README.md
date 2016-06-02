@@ -1,2 +1,2 @@
 # denis.tolopilo
-Курсовая работа "Paratroopers"
+Course work:  "Paratrooper (video game)"
